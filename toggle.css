@@ -1,0 +1,16 @@
+.toggle-container {
+  margin-left: auto;
+}
+
+.toggle-button {
+  padding: 5px 10px;
+  color: #fff;
+  background-color: #f84e1a; 
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+.toggle-button:hover {
+  background-color: #555;
+}
